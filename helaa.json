@@ -1,5 +1,8 @@
 {
-   "aim_ag_texture2":[
+	"name":"Stolen locations",
+	"description":"Nade and Movements.",
+   "locations":{
+    "aim_ag_texture2":[
       {
          "name":[
             "T Spawn",
